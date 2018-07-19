@@ -46,7 +46,7 @@
                   </v-list-tile-content>
               </v-list-tile>
 
-              <v-list-tile @click="navigateTo('dashboard')" >
+              <v-list-tile @click="navigateTo('/dashboard')" >
                   <v-list-tile-action>
                       <v-icon>dashboard</v-icon>
                   </v-list-tile-action>

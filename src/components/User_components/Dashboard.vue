@@ -37,7 +37,6 @@
  <v-layout row wrap>
    <v-flex xs12 sm8>
      <v-card class="mr-1">
-       <!-- ---------Date picker  -------->
         <v-card  flat >
            <v-card-title style="justify-content:center;">
 

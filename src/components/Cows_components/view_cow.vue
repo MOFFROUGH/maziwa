@@ -13,7 +13,7 @@
             <h3>Year of birth: <span style="color:black;text-transform: capitalize;">{{cow.date}}</span> </h3>
           </v-card-text>
           <v-card-text>
-            <img class="preview mt-2" :src="cow.imageData">
+            <img class="preview mt-2" :src="cow.picture">
           </v-card-text>
         </v-card>
       </v-flex>
