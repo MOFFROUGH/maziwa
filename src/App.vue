@@ -210,10 +210,10 @@ export default {
     return{
       drawer:false,
       sideNav: [
-        {to: '/cows', src: 'static/AI.svg', title: 'Cows' },
-        {to: '/cows', src: 'static/AI.svg', title: 'Cows' },
-        {to: '/cows', src: 'static/AI.svg', title: 'Cows' },
-        {to: '/cows', src: 'static/AI.svg', title: 'Cows' }
+        {to: '/cows', src: '/static/AI.svg', title: 'Cows' },
+        {to: '/cows', src: '/static/AI.svg', title: 'Cows' },
+        {to: '/cows', src: '/static/AI.svg', title: 'Cows' },
+        {to: '/cows', src: '/static/AI.svg', title: 'Cows' }
       ]
     }
   },
